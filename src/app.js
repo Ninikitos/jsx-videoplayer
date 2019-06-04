@@ -1,21 +1,11 @@
-import { LandscapeApp, ui } from 'lumin';
-const { UiText, EclipseLabelType, Alignment, HorizontalTextAlignment } = ui;
+import React from 'react';
 
-export class App extends LandscapeApp {
-  onAppStart () {
-    // Create a new prism that's half a meter cubed.
-    let prism = this.requestNewPrism([0.5, 0.5, 0.5]);
-
-    // Create a nice text label using UIKit.
-    let text = UiText.CreateEclipseLabel(
-      prism,
-      'Hello\nMagicScript!',
-      EclipseLabelType.kT7
+export class App extends React.Component {
+  render () {
+    return (
+      <view name="main-view">
+        <text textSize={0.10} textColor={[0.1, 1, 0.1, 0.84]} localPosition={[0, 0.25, 0]}>{this.state.counter}</text>
+      </view>
     );
-    text.setAlignment(Alignment.CENTER_CENTER);
-    text.setTextAlignment(HorizontalTextAlignment.kCenter);
-
-    // Attach the label to the root of the prism's scene graph.
-    prism.getRootNode().addChild(text);
   }
 }
