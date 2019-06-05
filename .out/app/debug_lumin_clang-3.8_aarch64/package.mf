@@ -996,24 +996,45 @@
   },
   {
    "compression": 8,
-   "hash": "5ba19c1346b911b9453b39d14d625d4e4cba1fe1",
+   "hash": "ae931d94a41553d38fa4cdb6196d82557356fa9c",
    "pkgpath": "bin/src/app.js",
-   "size": 351,
+   "size": 875,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/app.js"
   },
   {
    "compression": 8,
-   "hash": "f8ce80973335615dd75b583689c3eb7a7a1d0092",
+   "hash": "1f32bce9ef2a4d056879bab29c7ca5ea92fe4f0f",
+   "pkgpath": "bin/src/components/videoView.js",
+   "size": 418,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/components/videoView.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7f77f1e3e6417154e46062436aafc87053a4f79d",
+   "pkgpath": "bin/src/global-scope.js",
+   "size": 67,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/global-scope.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d6a0cedb204a354503db660460f6255d2f71644d",
    "pkgpath": "bin/src/main.js",
-   "size": 539,
+   "size": 567,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/main.js"
   },
   {
    "compression": 8,
-   "hash": "1860d58508cb45054fb4360f555ae81d0fa23e37",
+   "hash": "3e66e64edfd991e99cc2e1e627666bf19b08a1f3",
    "pkgpath": "./digest.sha512.signed",
-   "size": 30738,
+   "size": 31105,
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "d73ab3ab2d3861e2be40e57aa6891f6e6812c26b",
+   "pkgpath": "resources/IMG_6348.MOV",
+   "size": 25755477,
+   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/resources/IMG_6348.MOV"
   },
   {
    "compression": 8,
@@ -1023,23 +1044,23 @@
    "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer\\manifest.xml",
    "xfrm_flags": {
     "manifest": {
-     "cert_hash": "2e3ca398ab9ae604f77bd093d88da657221814f3",
-     "developer_id": "Magic Leap Internal",
+     "cert_hash": "4daddd1cfbfdb3649855f2ba26538b6234829158",
+     "developer_id": "331f73c2-eea5-4b5c-93c8-e8e473154179",
      "min_api_level": "2"
     }
    },
-   "xfrm_hash": "c7dba6c207d9b3d03f890198356a886cdf79c75c",
+   "xfrm_hash": "5a99f6c3d23a035d20ee07c160abe29dbdae438f",
    "xfrm_path": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-b01a3fc68b3b48c1",
-   "xfrm_size": 591
+   "xfrm_size": 608
   }
  ],
  "pkgflags": {
   "signed": {
-   "cert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert"
+   "cert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert"
   },
   "taildata": {
    "debuggable": true,
-   "devcert": "C:\\Users\\nilin\\Desktop\\mlsdk_main\\internal\\ml_internal.cert",
+   "devcert": "C:\\Users\\nilin\\Desktop\\prod_cert\\0.15.0-rc5.cert",
    "sbox": "USER",
    "version": 3
   }

@@ -141,10 +141,11 @@ b9bc2de68e60a27f0b9e0e20c85a532c4965b69d9170066d6e27a16ff094c1184c32c8419a4f4bf3
 71dcb68dae6a0cbe1e7d44f71a848d8417ac92b49c91ccce034d56586ccc73039e65134d922c62c9403aa17ba9adc49373fe3efb6661b315b604116f737a824d  bin/node_modules/scheduler/cjs/scheduler.production.min.js
 5eeb5bdcd1a5e0d22ab91d8a5dd7922d0a13179a5cc009c7882783785dbe2c1d0da757041a3d39df3aa27e7e8c8ef4007c7990e22af421410eb6d9ef4b294e57  bin/node_modules/scheduler/index.js
 e5f23c82b178e60f2c11719db2e6e551223b7016ac0265ecd98a9d9ec6258e755f400295d4516cd66cb06f0c139607ea44a44e9bd24829585ffc3c703a627719  bin/node_modules/scheduler/tracing.js
-0b940ae969f46c001585b580d99088a89e4afe3261bcfba3ea56815949df4181f1130175a61b22b3f8c1a5f9ab094bbe258b74e852720c8fbbca53236748f84e  bin/src/app.js
-00fc259758fdc0923ad0cc56e05700c2fa6e9ae1bdc4d8e1ad3be8db3d5d32f7fe23459f4fce209fe5a2e0b4c3f9dbf0d6f8c2889b55ecb80a3b5c8281668eb5  bin/src/main.js
-#     USER                                                                       TAILDATA0‚>	*†H†÷ ‚/0‚+10	`†He0	*†H†÷1‚0‚0_0R10	UUS10UFlorida10U
-
-Magic Leap10UMagic Leap Internal	 ˆö‚*Ù’‡0	`†He0	*†H†÷ ‚€J‚íºu-C±dïc+ç¬<ŞúR©
-je=½ÌZâ}0ä‰³·j‰=	€¤=êkÒD´è’Ä d³vnIÕn+ë½[¯áâ ”	5Ö~ÂÇ¬où5~‰å5„ÏµÚ ‡oú“ÂZÔÕŒ×,ö:øÖãpïÃß:šü÷XMZOmz5¤¥’RˆÛ?¾óK1ûïK¼`:_¯Ğ6¼Êİ˜ûaà­Ï™N|78iK@0\â¤PéxW'ZsØ¾Ñ¼¾„µ9`G¶Y¾kÇöwÿPFéz„–©c•^ª`„ÖØ/”Ì‰»F.Œ¾iƒ`Ãø²•ÁĞyQC7İí&¨¦–åD÷a[’{ïàÀ
-{}ˆæé, ûÁb2rp.FïCèäÓ£ŒÕRaëœ(	×0¼Ù~kÿæÉË ãc4ÉŸºI`°Ô#¢Ørnµ¸({Wu@øhUí—‡É LvÌu•áİµâó@¾ğ®DŸ±£lí¯æí·Îî<³À         B~Module signature appended~
+df689b0932c9283155a0810bd98aa37804e5698ed40cc112e236f47498f8121ccc8e02646f61b8463aeaecb2f215d812400f795f477ba843913ceae89dd54b7d  bin/src/app.js
+ad061dd2f89a0acdb19b54ceed7cce66291d937fc3e06b6bdfa8054e780fcdeb1ee8eb1e7dc7ded45ea4b4f7b28df1f4bb695094690b2bd311eee36fa99da07e  bin/src/components/videoView.js
+ccb59cc4eeb3f4348629a430aded2500d6779cdd3b699c9de853eb3931da970afebdd9bcb2c4c2c737cc8c26ff5c963a0cd19777302812d33e4173d310e340a1  bin/src/global-scope.js
+7352a5d093af43146fb08272da29b7cb4480992a0e56907e0293a87e6e48ba166328b14971c86c6a2ea0cc6ff07a7f1c3f4cbe08fc0acdf6550ee051dd187f27  bin/src/main.js
+#     USER                                                                       TAILDATA0‚q	*†H†÷ ‚b0‚^10	`†He0	*†H†÷1‚;0‚70‘0„10	UUS10UFlorida10U
+Plantation10U
+
+Magic Leap10UExternal Developer10UMagic Leap Root Dev,õ"D·ç0±0	`†He0	*†H†÷ ‚€Bî´8_{$ÿß(l{©ÔÑé ¸¬‰8p¿µgÂÁĞ’ÔOñÈÆÈùàÆª¿é#1öz‰•1ßªÿÂJ&;Ê›úÊ¢mn¿úscRX¬VŒ¾)ai| ÔşÎ9ıPs:òQ¸?Údô¾hµe{¹ÒL¸ß+›äì”eÚãîn,Ğc³è\Ùt©0ëRN¾…is¦Î¬hú>Ñ±7¡pògŸfY/<‰†8ƒ_˜CBë÷j-8²¬hÎµ…j"¢ é– àæ0Ûg“ÚÀqkdI ©¶²xËk€á``u6dFgI3f¥•XÔÚ`¢ÔÛôlÂ^6Èºé	û(„%îûFá`-òÒÓPı.ªTl"ç¶G+÷»«OÍaêôôV½]e¥¨há«ò=ê¨¨Ò$§ZüeÊúÇ³«}Ç8Ê,FŠŞüÚfpÜW×Ù÷v¤k	Ç”mÓaÜ[¨> Ä¢(çŒsÆ 9„“4         u~Module signature appended~

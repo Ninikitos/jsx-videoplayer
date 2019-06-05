@@ -572,6 +572,14 @@
   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/app.js"
  },
  {
+  "dest": "bin/src/components/videoView.js",
+  "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/components/videoView.js"
+ },
+ {
+  "dest": "bin/src/global-scope.js",
+  "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/global-scope.js"
+ },
+ {
   "dest": "bin/src/main.js",
   "src": "C:/Users/nilin/Desktop/qa_mxs_jsx_videoplayer/bin/src/main.js"
  }
